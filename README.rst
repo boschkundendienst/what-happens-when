@@ -24,6 +24,14 @@ Table of Contents
    :backlinks: none
    :local:
 
+URL prediction
+--------------
+If "URL prediction" is enabled in your browser then while you are typing
+"URL prediction" sends requests to the configured search engine to auto-complete
+the URL before pressing the enter key. Since "URL prediction" needs to contact
+the search engine's webpage, DNS resolution and a lot of other network related
+processes will be initiated just by typing! (depends on the browser you use)
+
 The "enter" key bottoms out
 ---------------------------
 
